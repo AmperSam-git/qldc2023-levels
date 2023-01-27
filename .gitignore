@@ -1,0 +1,4 @@
+*.smc
+*.sfc
+*.bin
+roms\*
