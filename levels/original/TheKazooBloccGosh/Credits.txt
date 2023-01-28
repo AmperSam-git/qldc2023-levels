@@ -1,0 +1,30 @@
+Baserom used: BLDC2 v1.07
+
+Lunar magic: 3.31
+
+
+-Music-
+
+Majin Tensei 2: Spiral Nemesis - A.D. 1995 Story (https://smwc.me/s/30220)
+Ported by: Ahrion
+
+Secret Sauce (https://smwc.me/s/31273)
+Original by: VecchiaZim
+
+Toontown Online - Chip n' Dales Acorn Acres (https://smwc.me/s/31005)
+Ported by: Giftshaven
+
+The 12th Vanilla Level Design Contest - City Map (https://smwc.me/s/32438)
+Original by: bebn legg
+
+A Plumber For All Seasons - Autumn Color (https://smwc.me/s/32229)
+Original by: Moose
+
+
+-Music?-
+
+Undertale - Spooktune (cursed)
+Original port: sincx (https://smwc.me/s/13151)
+Extra samples taken from: Super Mario Land 2: 6 Golden Coins - Shining Beat ~ Star Maze (Remix)
+Remix from: Hooded Edge (https://smwc.me/s/24302)
+Poorly mashed by: Me LOL

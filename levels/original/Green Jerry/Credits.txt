@@ -1,0 +1,27 @@
+Graphics:
+AmperSam (Midway Point Fix)
+Aquas (JUMP½ - Mario-Solid Block)
+Dark Prince (Super Mario World (Prototype) - Forest)
+Koopster (JUMP½ - Sprite-Solid Block)
+Kusamochi (Tails Player)
+Qwerty13x (Sonic the Hedgehog - Ring)
+
+Blocks:
+HammerBrother (Infinite Throw Block)
+ASMagician Maks (Mario Solid Block, Sprite Solid Block)
+
+Patches:
+Kevin (Disable Scorecard GFX)
+Lui (Remove Status Bar)
+Tattletale (Moving Ledge Hole Sprite Fix)
+
+Music:
+bebn legg (Knuckles' Chaotix - Door Into Summer)
+Giftshaven (CUSTOM - The 12th Vanilla Level Design Contest - Forest Zone)
+JUMP Team (Falling Sample) - .txt file has no credits
+Nameless (Sonic 3 & Knuckles - Act Clear)
+Samantha (Trials of Mana - Powell)
+
+UberASM:
+badummzi (Instant Death on Powerup Loss)
+KevinM (Retry System)

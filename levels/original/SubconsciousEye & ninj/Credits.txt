@@ -1,0 +1,40 @@
+Blocks:
+* Question Blocks - MarioFanGamer (modified by Team Kooper)
+* Sprite Shatter - lolcats439 (modified by Team Kooper)
+* Hurt Blocks - dacin
+* One-Way Blocks - HammerBrother
+* Mario Solid - ASMagician Maks
+* Sprite Solid - ASMagician Maks
+* Boss Door - MarioFanGamer
+Graphics:
+* Hotel Horror - Falconpunch
+* Proto Yossy - Teyla
+* Redrawn Koopa - icegoom
+* Various - Team Kooper
+* Downtown Restaurant - RussianMan
+Sprites:
+* Yellow + Blue Parakoopas - Alcaro and Erik (inspiration)
+* Various - Team Kooper
+Music:
+* DKC musics - ggamer77
+* SMW Touhou - bebnlegg
+* Storm of Angels - Hooded Edge
+* Waluigi Pinball - Pink Gold Peach
+* Modifications by Team Kooper
+* Funni Ice Fairy - Wakana
+* You Spin Me Right Round Baby Right Round Like A - worldpeace
+Other ASM:
+* b4vwf - Katrina
+* DMA Queue + Block Optimize - imamelia + mario90 + spooonsss
+* Mario 8x8 DMAer - Ladida
+* Custom OAM Allocater - Katrina
+* Status Bar Deleter - Lui
+* Scorecard Nukifier - Kevin
+* Sprite Item Box - Kevin
+* Optimized LM VRAM - Kevin
+* Retry - Kevin
+* Music "Playlist" Change - binavik
+* Disable Title Screen Movement - Telinc1
+* Various - Team Kooper
+Misc:
+* Haachama Pepeloni Copypasta - Haachama

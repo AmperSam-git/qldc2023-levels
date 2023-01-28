@@ -1,0 +1,14 @@
+        Credits
+-------------------------
+Testing ~
+    NewPointless
+    mangort
+
+Patches ~
+    Retry               - KevinM
+    AlwaysShowYoshiText - me
+
+Music ~
+    Intro Screen - Banipal's Monster from Last Bible 3 - ported by KevinM
+    Level Intro  - Ghost Factory Ambience              - original by brickblock369
+    Main Level   - Great Relic Heist from VLDC13       - ported by Daizo Dee Von

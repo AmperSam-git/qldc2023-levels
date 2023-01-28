@@ -1,0 +1,26 @@
+Level Name : Strange Ruins
+Switch Blocks : No
+Custom Music : Yes
+Dragon Coin : Yes
+3up Moon : No
+
+- Levels -
+044 : ???
+0F5 : Bonus Level
+105 : Main Level
+1CB : Sub Level
+1CC : Boss Level
+
+- Musics -
+1. Pokemon Scarlet & Violet - Battle! Penny [Ora Mixed] (Port by ???)
+2. Gomola Speed - Act 13 [Ora Mixed] (Port by ???)
+
+- Message 1 -
+-POINT  OF ADVICE-
+What     if    you
+connect        the
+letters written in
+each bonus room in
+order?    If   the
+answer  is  wrong,
+you die.      

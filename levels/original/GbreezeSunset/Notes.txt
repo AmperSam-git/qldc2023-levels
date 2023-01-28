@@ -1,0 +1,1 @@
+Please note that this level's gimmick may not work on certain emulators (especially with downloaded shaders or filters), or certain hardware, that darkens the screen. For the best results, play on snes9x with your computer's brightness on normal. Thank you for your compliance

@@ -1,0 +1,27 @@
+RHR Stuff - https://github.com/romhackraces/baserom/blob/4.12/CREDITS.txt
+Sprite Killer - JamesD28
+Key Disassembly - Kevin
+Item Box Special - imamelia and Davros
+Moving Ledge Fix - Tattletale
+Teleport Keyhole - EternityLarva
+Water Droplet - MarioFanGamer
+NPCs - wye
+
+Graphics:
+Zero Wing - Bellon - Roberto Zampari
+Swamp - PercentN
+Fire Emblem Heroes - Dökkálfheimr, Realm of Nightmares (Forest) - falconpunch
+Castlevania: Rondo of Blood - Stage 3 (Giant Candles) - anorakun
+
+Music:
+Digimon World 2 - Core Tower - Ahrion
+Sutte Hakkun - Stage 5 - Ahrion
+
+Extra special thanks to...
+
+Amethyst, authorblue, Kezcade, shovda, TheJavaBrew, Thirdwall, and Valentine for judging this contest...
+AmperSam for organizing...
+All the staff at SMWC who make this possible...
+and anyone who plays this level :)
+
+I know these credits are sort of rushed. I appreciate the indispensable assets you've all provided. Levels like this couldn't exist without your contributions.
