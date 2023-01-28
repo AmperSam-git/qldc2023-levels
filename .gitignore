@@ -1,4 +1,5 @@
 *.smc
 *.sfc
 *.bin
+*.zip
 roms\*
