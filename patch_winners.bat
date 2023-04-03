@@ -4,7 +4,7 @@ set ROMFILE="smw.sfc"
 if exist winners\ (echo) else (mkdir winners)
 if exist %ROMFILE% (
 	for /f "tokens=*" %%a in (winners.txt) do (
-		.\flips.exe --apply levels\randomized\obfuscated\%%a.bps %ROMFILE% winners\%%a.smc
+		.\flips.exe --apply randomized\obfuscated\%%a.bps %ROMFILE% winners\%%a.smc
 	)
 	pause
 ) else (

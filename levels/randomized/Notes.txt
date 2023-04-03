@@ -1,5 +1,0 @@
-Notes About Particular Entries
-
-09 - Epilepsy/Flashing colours warning
-29 - Requires a Mouse
-50 - The level gimmick may not work on certain emulators (especially with downloaded shaders or filters), or certain hardware, that darkens the screen.
