@@ -1,10 +1,10 @@
 @echo off
 
 set ROMFILE="smw.sfc"
-if exist smc\ (echo) else (mkdir smc)
+if exist winners\ (echo) else (mkdir winners)
 if exist %ROMFILE% (
-	for /f "tokens=*" %%a in (award-winners.txt) do (
-		.\flips.exe --apply levels\%%a.bps %ROMFILE% roms\%%a.smc
+	for /f "tokens=*" %%a in (winners.txt) do (
+		.\flips.exe --apply levels\randomized\obfuscated\%%a.bps %ROMFILE% winners\%%a.smc
 	)
 	pause
 ) else (
